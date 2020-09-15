@@ -1,1 +1,2 @@
-*.ui linguist-vendored=false
+STREAMING_PACKAGE/build/info/info.exe.manifest linguist-vendored
+
