@@ -1,2 +1,1 @@
-STREAMING_PACKAGE/build/info/info.exe.manifest linguist-vendored
-STREAMING_SERVICE/*.ui linguist-vendored
+STREAMING_SERVICE/* linguist-vendored
