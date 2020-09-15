@@ -1,2 +1,1 @@
-*.ui linguist-language=xml
-*.xml linguist-vendored=false
+ *.* linguist-language=python
