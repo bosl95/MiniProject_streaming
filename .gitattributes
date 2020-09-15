@@ -1,1 +1,2 @@
-STREAMING_SERVICE/*.ui linguist-vendored
+* linguist-vendored
+*.ui linguist-vendored=false
