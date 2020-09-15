@@ -1,2 +1,3 @@
-* linguist-vendored
-*.ui linguist-vendored=false
+* text=auto eol=lf
+
+*.ui text eol=lf
