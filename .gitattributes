@@ -1,3 +1,1 @@
-* text=auto eol=lf
-
-*.ui text eol=lf
+*.ui linguist-language=python
