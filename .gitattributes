@@ -1,0 +1,2 @@
+* linguist-vendored
+*.ui linguist-vendored=false
